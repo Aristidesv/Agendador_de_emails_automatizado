@@ -1,5 +1,6 @@
-import os 
-EMAIL_REMETENTE=os.getenv("EMAIL_REMETENTE")
-EMAIL_SENHA=os.getenv("EMAIL_SENHA")
-SMTP_SERVER="smtp.gmail.com"
-SMTP_PORT=465
+#Uma via para comfugurar o SMPT
+#import os 
+#EMAIL_REMETENTE=os.getenv("EMAIL_REMETENTE")
+#EMAIL_SENHA=os.getenv("EMAIL_SENHA")
+#SMTP_SERVER="smtp.gmail.com"
+#SMTP_PORT=465
