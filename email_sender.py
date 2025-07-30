@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 
 def enviar_email(destinatario, assunto, mensagem):
     email = "Seu_email_@gmail.com"
-    senha = "Codigo_do_Gmail"  # Esse codigo e gerado pelo Gmail os links estao no doc.txt
+    senha = "Codigo_do_Gmail"  # Esse codigo e gerado pelo Gmail os links estao no README.md
 
     msg = MIMEText(mensagem)
     msg['Subject'] = assunto
