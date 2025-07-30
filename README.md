@@ -55,7 +55,7 @@ http://localhost:5000
 2. Abrir outro terminal, iniciar o agendador
 python scheduler.py
 
-Depois disso e so usar o ser sistema a vontade........
+Depois disso e so usar o seu sistema a vontade........
 
 
 
