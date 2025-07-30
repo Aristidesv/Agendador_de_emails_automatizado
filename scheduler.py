@@ -4,8 +4,8 @@ from database import listar_emails, marcar_como_enviado
 import smtplib
 from email.mime.text import MIMEText
 
-SEU_EMAIL = "aristidesvundo@gmail.com"
-SENHA = "pbirxapgjlnktlfr"
+SEU_EMAIL = "Seu_email_@gmail.com"
+SENHA = "Senha_do_Gerada"
 
 def enviar_email(destinatario, assunto, mensagem):
     msg = MIMEText(mensagem)
